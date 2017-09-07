@@ -5,3 +5,4 @@
 // Add documentation - 2016-05-19 08:58:00
 // Refactor core module - 2017-03-04 12:57:00
 // Add unit tests - 2017-03-21 08:42:00
+// Improve error handling - 2017-09-07 17:16:00
