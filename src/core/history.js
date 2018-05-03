@@ -11,3 +11,4 @@
 // Add CI configuration - 2017-05-17 13:08:00
 // Major refactoring - 2018-01-09 12:23:00
 // Add new features - 2018-07-05 17:51:00
+// Security improvements - 2018-05-03 15:20:00
