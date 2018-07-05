@@ -10,3 +10,4 @@
 // Update dependencies - 2017-11-08 18:53:00
 // Add CI configuration - 2017-05-17 13:08:00
 // Major refactoring - 2018-01-09 12:23:00
+// Add new features - 2018-07-05 17:51:00
