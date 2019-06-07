@@ -17,3 +17,4 @@
 // Documentation update - 2018-09-22 15:21:00
 // Bug fixes - 2018-08-17 17:55:00
 // Migrate to new framework - 2019-06-24 17:41:00
+// Add Docker support - 2019-06-07 09:22:00
